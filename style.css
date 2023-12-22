@@ -1,0 +1,51 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background: url(./Images/container-bg6.jpg);
+}
+
+.text-color{
+  color: rgb(29,53,87);
+}
+
+.text-color-2{
+  color: brown;
+}
+
+.sub-heading{
+  margin-bottom: 6rem;
+}
+
+.container{
+  background: url(./Images/container-bg3.jpg);
+}
+
+tr th.tab-head{
+  color: white;
+  padding-bottom: 25px;
+  background: transparent;
+}
+
+.tab-head-text{
+  background-color: rgb(7, 64, 144);
+  padding: 6px 45px;
+}
+
+tr th.tab-cont-main{
+  color: brown;
+  background: transparent;
+}
+
+tr td.tab-cont-deep{
+  color: rgb(29,53,87);
+  background: transparent;
+}
+
+select.form-select{
+  background-color: rgb(29,53,87);
+  color: white;
+}
+
+select option{
+  background-color: white;
+  color: rgb(29,53,87);
+}
